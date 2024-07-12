@@ -1,1 +1,1 @@
-check ou ->>>> https://ramizlandingpage.netlify.app/
+checkout ->>>> https://ramizlandingpage.netlify.app/
